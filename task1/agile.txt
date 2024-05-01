@@ -1,0 +1,24 @@
+Principle 1: Attain customer satisfaction through continuous delivery of software
+
+Principle 2: Don't be afraid to make changes 
+
+Principle 3: Deliver working software, with a preference to the shorter timescale
+
+Principle 4: Developers and management must work together 
+
+Principle 5: Build projects around motivated individuals
+
+Principle 6:  Face-to-face interactions are the most efficient & effective modes of communication 
+
+Principle 7: Working software is the primary measure of progress
+
+Principle 8: Agile processes promote sustainable development
+
+Principle 9: Continuous attention to technical excellence and good design enhances agility
+
+Principle 10: Simplicity is essential
+
+Principle 11: The best architectures, requirements, and designs emerge from self-organizing teams
+
+Principle 12: Inspect & Adapt
+
